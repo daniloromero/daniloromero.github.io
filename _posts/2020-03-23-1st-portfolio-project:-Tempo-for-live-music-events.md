@@ -2,6 +2,8 @@
 layout: post
 title: "1st Portfolio project: Tempo for live music events"
 date: 2020-03-23
+tags: [projects, tech-blog]
+image: 
 ---
 Introduce Tempo project with a few key elements:
 
