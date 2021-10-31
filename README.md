@@ -8,7 +8,7 @@ This site is created an mantained using the[Congo](https://jpanther.github.io/co
 🐛 [Bug reports & issues](https://github.com/daniloromero/daniloromero.github.io/issues)  
 
 
-![Screenshot](https://raw.githubusercontent.com/daniloromero/terpenoide/static/home_screenshot.png)
+![Screenshot](https://github.com/daniloromero/terpenoide/blob/main/static/home_screenshot.png)
 
 ## Features
 
